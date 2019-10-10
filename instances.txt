@@ -1,0 +1,41 @@
+Class: Chair
+
+var ikeaBarStool = {
+  material: ["leather", "iron"],
+  weight: 30,
+  height: 43,
+  hasCushion: true,
+  wherePurchased: "Ikea",
+  numberOfLegs: 4
+  sanded: false,
+  rockingChair: false
+};
+
+var vintageRockingChair = {
+  material: ["wicker", "birch"],
+  weight: 20,
+  height: 30,
+  hasCushion: false,
+  wherePurchased: "GoodWill",
+  numberOfLegs: 2,
+  sanded: true,
+  rockingChair: true
+};
+
+Class: Plant
+
+var spiderPlant = {
+  latinName: "Chlorophytum comosum",
+  numberOfLeaves: 57,
+  isSucculent: false,
+  containerType: "metal pot",
+  color: ["green", "yellow"]
+};
+
+var chocolateSoldier = {
+  latinName: "Kalanchoe tomentosa,"
+  numberOfLeaves: 29,
+  isSucculent: true,
+  containerType: "ceramic pot"
+  color: ["green", "brown"]
+};
