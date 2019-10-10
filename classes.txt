@@ -1,0 +1,34 @@
+Class: Chair
+
+Attributes:
+material (string)
+weight (integer)
+height (integer)
+hasCushion (boolean)
+wherePurchased (string)
+numberOfLegs (integer)
+sanded (boolean)
+rockingChair (boolean)
+
+Method:
+removeLeg (subtract one from numberOfLegs)
+addCushion (changed hasCushion from false to true)
+sand (change sanded from false to true)
+rock (if rockingChair = true, change chair motion)
+density (calculate using height and weight)
+
+Class: Plant
+
+Attributes:
+latinName (string)
+numberOfLeaves (integer)
+isSucculent (boolean)
+containerType (string)
+color (string)
+
+method:
+water (initial function to allow grow to happen)
+fertilize (initial function to allow grow to happen)
+grow (change height and width)
+repot (change containerType)
+trimLeaves (subtract from numberOfLeaves)
