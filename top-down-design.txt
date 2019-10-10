@@ -1,0 +1,39 @@
+Doing Laundry
+
+1. Gather laundry
+  1.1 Put clothes from floor in hamper
+  1.2 Pull sheets from bed
+    1.2.1 Remove top sheet
+    1.2.2 Remove fitted sheet
+    1.2.3 Remove pillow cases
+  1.3 Grab towels from bathroom
+2. Wash Laundry
+  2.1 Put laundry in washing machine
+  2.2 Add laundry detergent
+    2.2.1 Determine wash load size
+    2.2.2 Measure detergent
+    2.2.3 Pour on top of laundry
+  2.3 Select wash cycle
+    2.3.1 Determine wash load size
+    2.3.2 Determine wash load color
+      2.3.2.1 If dark, select cold water
+      2.3.2.2 If light, select hot water
+  2.4 Turn knobs
+  2.5 Press start
+3. Dry laundry
+  3.1 Move wet laundry to dryer
+  3.2 Add dryer sheet
+  3.3 Select dryer heat
+    3.3.1 If delicate = true, select low heat
+    3.3.2 If delicate = false, select high heat
+  3.4 Press start button
+4. Put away laundry
+  4.1 Separate laundry into piles of like items
+  4.2 Hang up shirts
+    4.2.1 Grab hanger from closet
+    4.2.2 Put shirts on hanger
+    4.2.3 Put shirts in closer
+  4.3 Fold remaining items
+    4.3.1 Roll socks and underwear
+    4.3.2 Fold pants into thirds
+  4.4 Place folded items in drawers
